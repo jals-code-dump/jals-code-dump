@@ -7,6 +7,8 @@ As you can imagine a lot of the data I work with is Classified but I've kept the
 - 💞️ My guilty pleasure is using computer vision to automate PC Game tasks. These provide challenging environments with noisy backgrounds, dynamic camera angles and scaling image sizes
 - 📫 Contact me on my personal email on Alex dot Counihan at Hotmail dot co dot uk
 
+https://app.enhancv.com/share/a7aa0e83?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+
 <!---
 jals-code-dump/jals-code-dump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
